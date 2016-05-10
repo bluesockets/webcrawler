@@ -1,0 +1,13 @@
+{
+  "name": "wipro web crawler",
+  "version": "0.0.1",
+  "description": "the wipro web crawler API application",
+  "main": "server.js",
+  "author": "",
+  "dependencies": {
+    "sitemap-generator": "^3.1.1"
+  }
+}
+
+
+// http://wiprodigital.com/category/conference/%5C%22/creativecommons.org/licenses/by-sa/2.0/&quot;%5C%22
